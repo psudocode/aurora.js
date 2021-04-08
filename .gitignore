@@ -1,3 +1,6 @@
+# aurora libs
+/lib
+
 # Logs
 logs
 *.log
