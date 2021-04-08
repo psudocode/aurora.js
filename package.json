@@ -1,0 +1,28 @@
+{
+  "name": "aurora.js",
+  "version": "0.0.1",
+  "description": "Aurora design implementation for web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psudocode/aurora.js.git"
+  },
+  "keywords": [
+    "aurora",
+    "design",
+    "js",
+    "browser",
+    "component",
+    "ui",
+    "react"
+  ],
+  "author": "Ahmad Awdiyanto <dhidyawdiyan@gmail.com> (https://twitter.com/awdiyan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psudocode/aurora.js/issues"
+  },
+  "homepage": "https://github.com/psudocode/aurora.js#readme"
+}
