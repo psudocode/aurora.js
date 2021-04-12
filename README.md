@@ -1,16 +1,6 @@
 # Aurora.js
 
-[![install size](https://packagephobia.com/badge?p=@psudocode/aurora.js)](https://packagephobia.com/result?p=@psudocode/aurora.js)
-
-![npm bundle size](https://img.shields.io/bundlephobia/min/@psudocode/aurora.js)
-
-![npm](https://img.shields.io/npm/dm/@psudocode/aurora.js)
-
-![GitHub issues](https://img.shields.io/github/issues/psudocode/aurora.js)
-
-![NPM](https://img.shields.io/npm/l/@psudocode/aurora.js)
-
-![npm](https://img.shields.io/npm/v/@psudocode/aurora.js)
+[![install size](https://packagephobia.com/badge?p=@psudocode/aurora.js)](https://packagephobia.com/result?p=@psudocode/aurora.js) ![npm bundle size](https://img.shields.io/bundlephobia/min/@psudocode/aurora.js) ![npm](https://img.shields.io/npm/dm/@psudocode/aurora.js) ![GitHub issues](https://img.shields.io/github/issues/psudocode/aurora.js) ![NPM](https://img.shields.io/npm/l/@psudocode/aurora.js) ![npm](https://img.shields.io/npm/v/@psudocode/aurora.js)
 
 Aurora design implementation for React.
 
