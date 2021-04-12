@@ -24,12 +24,17 @@ import Aurora from "@psudocode/aurora.js";
 
 Note: Aurora act like a div with some default style `{ position: 'relative', overflow: 'hidden' }`
 
-## Props
+### Props
 
 | Props   | Descriptions         | Default |
 | ------- | -------------------- | ------- |
 | sides   | Total colors, 1 - 4  | 3       |
 | opacity | Global color opacity | 0.8     |
+
+## TODO
+
+- add feature to implement other than div component
+- add feature to generate color and position by seeds
 
 ## License
 
