@@ -1,6 +1,6 @@
 {
   "name": "@psudocode/aurora.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Aurora design implementation for web",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -9,7 +9,8 @@
   ],
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -c -w"
+    "start": "rollup -c -w",
+    "release": "yarn version --patch && git push --follow-tags"
   },
   "repository": {
     "type": "git",
