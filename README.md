@@ -1,6 +1,8 @@
 # Aurora.js
 
-Aurora design implementation for React
+Aurora design implementation for React.
+
+NOTE: for now it's just give you random colors
 
 ## Install
 
