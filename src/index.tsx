@@ -23,8 +23,8 @@ const Aurora: React.FC<AuroraProps> = ({ sides, opacity, ...props }): React.Reac
                   backgroundColor: generateColor(),
                   ...point,
                   ...baseStyle,
-                  width: props.style?.width ? `calc(${props.style?.width}px * 1.5)` : '100%',
-                  height: props.style?.width ? `calc(${props.style?.height}px * 1.5)` : '100%',
+                  width: props.style?.width ? `calc(${props.style?.width}px * 1.5)` : '150%',
+                  height: props.style?.width ? `calc(${props.style?.height}px * 1.5)` : '150%',
                   zIndex: -1,
                 }}
               />
