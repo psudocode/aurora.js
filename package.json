@@ -1,6 +1,6 @@
 {
   "name": "@psudocode/aurora.js",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "Aurora design implementation for web",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
